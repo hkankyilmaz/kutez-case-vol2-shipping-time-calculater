@@ -85,9 +85,7 @@ export const LeftSide = styled.div`
     h1 {
       font-size: 40px;
     }
-    h2 {
-      margin-top: 125px;
-    }
+ 
     p span {
       font-size: 1.5rem;
     }
