@@ -82,8 +82,9 @@ export const LeftSide = styled.div`
   }
   @media (max-width: 650px) {
     width: 85%;
-    h1 {
+      h1 {
       font-size: 40px;
+      line-height: 5rem;
     }
  
     p span {
